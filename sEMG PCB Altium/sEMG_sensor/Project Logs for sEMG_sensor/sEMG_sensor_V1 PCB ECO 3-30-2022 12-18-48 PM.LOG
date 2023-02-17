@@ -1,0 +1,80 @@
+Removed Member From Class: ClassName=PreAmplifier Member=C7
+Change Component Footprint: Designator=R15 Old Footprint=6-0805_L New Footprint=0402RES
+Change Component Footprint: Designator=R16 Old Footprint=6-0805_L New Footprint=0402RES
+Change Component Footprint: Designator=R17 Old Footprint=6-0805_L New Footprint=0402RES
+Change Component Footprint: Designator=R18 Old Footprint=6-0805_L New Footprint=0402RES
+Change Component Footprint: Designator=R19 Old Footprint=6-0805_L New Footprint=0402RES
+Change Component Comment : Designator=R16 Old Comment=Res1 New Comment=R0402
+Change Component Comment : Designator=R17 Old Comment=Res1 New Comment=R0402
+Change Component Comment : Designator=R18 Old Comment=Res1 New Comment=R0402
+Change Component Comment : Designator=R19 Old Comment=Res1 New Comment=R0402
+Change Component Comment : Designator=R15 Old Comment=Res3 New Comment=R0402
+Change component parameters: Designator = "R15" ("R15"); Footprint = "6-0805_L"; UniqueID = "\YBAYEILP" ("\YBAYEILP")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1.0k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "6-0805_L"; UniqueID = "\SMFDXUDS" ("\SMFDXUDS")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "6-0805_L"; UniqueID = "\CGJJNJQQ" ("\CGJJNJQQ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.0k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R18" ("R18"); Footprint = "6-0805_L"; UniqueID = "\JJRQUHRQ" ("\JJRQUHRQ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "390k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R19"); Footprint = "6-0805_L"; UniqueID = "\MZLMYLRK" ("\MZLMYLRK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.0k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor P/N"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(0402cap)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor P/N"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageRating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=U3-3
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=U3-2
+Added Net: Name=NetC8_2
+Added Member To Class: ClassName=PreAmplifier Member=Component C8 C0402
